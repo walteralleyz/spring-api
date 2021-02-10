@@ -2,8 +2,8 @@
 
 **A complete API using Spring Security, Actuator, JPA, H2 and Junit**
 
-. Security Endpoints 
-. Health APP check
-. Repository Management and Entity Manager
-. H2 persistence
-. Tests with Junit
+1. Security Endpoints 
+2. Health APP check
+3. Repository Management and Entity Manager
+4. H2 persistence
+5. Tests with Junit
